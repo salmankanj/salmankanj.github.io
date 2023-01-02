@@ -1,0 +1,5 @@
+Student name: Salman Kanj
+Student number: 689581
+Student class: IT1A
+URL student GitHub website: salmankanj.github.io
+URL student GitHUb repository: https://github.com/salmankanj/WebMarkupFinal
